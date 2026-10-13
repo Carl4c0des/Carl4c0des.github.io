@@ -5,6 +5,10 @@ assets
 <img src= "Slenderforest_hurt.jpg">
 <audio controls autoplay>
   <source src="fear_forest_theme.mp3" type="audio/mpeg">
+</audio>
+<audio controls autoplay>
   <source src="romantic_theme_c.mp3" type="audio/mpeg">
+</audio>
+<audio controls autoplay>
   <source src="main_theme_c.mp3" type="audio/mpeg">
 </audio>
