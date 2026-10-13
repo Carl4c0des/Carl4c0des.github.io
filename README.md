@@ -2,3 +2,4 @@
 assets
 <img src= "akane_forest_twine.jpg">
 <img src= "slenderforest_twine.jpg">
+<img src= "Slenderforest_hurt.jpg">
