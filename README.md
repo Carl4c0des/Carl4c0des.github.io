@@ -3,6 +3,11 @@ assets
 <img src= "akane_forest_twine.jpg">
 <img src= "slenderforest_twine.jpg">
 <img src= "Slenderforest_hurt.jpg">
+<img src= "Akane_prototype_sillouette_light.png">
+
+
+
+
 <audio controls autoplay>
   <source src="fear_forest_theme.mp3" type="audio/mpeg">
 </audio>
