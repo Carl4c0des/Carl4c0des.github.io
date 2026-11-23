@@ -17,3 +17,9 @@ assets
 <audio controls autoplay>
   <source src="main_theme_c.mp3" type="audio/mpeg">
 </audio>
+<audio controls autoplay>
+  <source src="tack_1.mp3" type="audio/mpeg">
+</audio>
+<audio controls autoplay>
+  <source src="tack_2.mp3" type="audio/mpeg">
+</audio>
